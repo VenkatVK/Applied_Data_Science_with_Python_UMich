@@ -1,4 +1,4 @@
-# Applied_Data_Science_with_Python_UMich
+# Applied_Data_Science_with_Python
 Data Science with Python
 
 Coursera Applied Applied Data Science with Python
